@@ -1,0 +1,1 @@
+C:\Users\aderg\OneDrive\Desktop\Projects\Rust\demo\target\debug\demo.exe: C:\Users\aderg\OneDrive\Desktop\Projects\Rust\demo\src\main.rs C:\Users\aderg\OneDrive\Desktop\Projects\Rust\demo\src\print.rs
